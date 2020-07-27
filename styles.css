@@ -1,0 +1,11 @@
+html {
+    /*para no cambiar el ancho de la pagina con los paddings*/
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    min-height: 100hv;/*toma todo la altura de la pagina*/
+    background-color: dodgerblue;
+}
